@@ -12,5 +12,6 @@ Every rupee donated goes towards supporting deserving students who cannot afford
 
 ## Tech
 - [HTML]
-- [CSS] 
+- [CSS]
+- [Javascript]
 
